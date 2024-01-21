@@ -1,0 +1,29 @@
+body{
+    background-color: yellowgreen;
+    text-align: center;
+}
+h1{
+    background-color: white;
+    border: 1px black solid;
+}
+canvas{
+    background-color: white;
+}
+#label{
+    color: black;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+#label1{
+    color: red;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+#p1,#p2{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+
+}
